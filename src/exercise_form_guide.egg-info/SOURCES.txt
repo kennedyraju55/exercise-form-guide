@@ -1,0 +1,14 @@
+README.md
+setup.py
+src/exercise_form_guide.egg-info/PKG-INFO
+src/exercise_form_guide.egg-info/SOURCES.txt
+src/exercise_form_guide.egg-info/dependency_links.txt
+src/exercise_form_guide.egg-info/entry_points.txt
+src/exercise_form_guide.egg-info/requires.txt
+src/exercise_form_guide.egg-info/top_level.txt
+src/exercise_guide/__init__.py
+src/exercise_guide/cli.py
+src/exercise_guide/core.py
+src/exercise_guide/web_ui.py
+tests/test_cli.py
+tests/test_core.py
